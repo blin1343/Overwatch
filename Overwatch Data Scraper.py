@@ -6,7 +6,7 @@ import time
 
 #This code gets the stats for all Heroes in Overwatch Quickplay
 counter = 0
-
+#Defines a function where it grabs in-game statistics from the Overwatch official website of any player
 def Search(region, platform, battletag):
     url = "https://playoverwatch.com/{}/career/{}/{}".format(region, platform, battletag)
     header = {"User-Agent" : "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"}
