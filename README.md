@@ -6,6 +6,6 @@ Hello
 ## This is a picture
 
 ```
-![](Images/Healing Done per 10 Min Support Class.png)
+![](Images/Healing_Done_per_10 Min_Support_ Class.png)
 
 ```
