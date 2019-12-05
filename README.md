@@ -1,4 +1,4 @@
-# Project Title
+# Project Title: Overwatch Webscraper
 
 Overwatch Webscraper Application that collects data on multiple players. The data is then used to compare in-game statistics so that the player can identify his/her strengths & weaknesses.
 
