@@ -2,7 +2,7 @@
 
 Overwatch Webscraper Application that collects data on multiple players. The data is then used to compare in-game statistics so that the player can identify his/her strengths & weaknesses.
 
-## Running the Program
+## Code Runthrough
 We first define a function that takes the inputs of the player's region, gaming platform, and blizzard battletag id.
 ```
 def Search(region, platform, battletag):
